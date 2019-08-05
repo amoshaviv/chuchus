@@ -4,7 +4,7 @@
   "name": "Irene & Amos Wedding",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://chuchus.wedding/",
+  "start_url": "/",
   "short_name": "Irene ❤️ Amos",
   "theme_color": "transparent",
   "description": "Irene & Amos PWA",
