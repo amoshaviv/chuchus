@@ -1,0 +1,26 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Irene & Amos Wedding",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "https://chuchus.wedding/",
+  "short_name": "Irene ❤️ Amos",
+  "theme_color": "transparent",
+  "description": "Irene & Amos PWA",
+  "orientation": "any",
+  "background_color": "transparent",
+  "generated": "true",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
