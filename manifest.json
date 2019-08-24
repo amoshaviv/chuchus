@@ -5,11 +5,11 @@
   "scope": "/",
   "display": "standalone",
   "start_url": "/",
-  "short_name": "❤️",
-  "theme_color": "transparent",
-  "description": "Irene & Amos PWA",
+  "short_name": "I & A",
+  "theme_color": "#000",
+  "description": "Irene & Amos Wedding Application",
   "orientation": "any",
-  "background_color": "transparent",
+  "background_color": "#000",
   "generated": "true",
   "icons": [
     {
